@@ -304,35 +304,50 @@ A full-stack MERN Lead Management Dashboard.
 
 ---
 
+---
+
 ## 📫 Let's Connect & Collaborate!
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="180" alt="Fire"/>
+<h3>🚀 Let's Build Something Great Together</h3>
 
-### **I'm always excited to work on innovative projects!** 💡
+<p>
+I'm always open to discussing new projects, creative ideas,
+<br/>
+or opportunities to build something meaningful with technology.
+</p>
 
-<br>
+<br/>
 
 <a href="mailto:aaliya969392@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+
 <a href="https://leetcode.com/u/Aaliya_Parveen/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
+
 <a href="https://github.com/Aaliya-TheCoder" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<br><br>
+<br/>
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="180" alt="Fire"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="80%"/>
+
+<br/>
+
+### 💻 Code. Create. Collaborate. Grow.
+
+<p>
+<strong>Thanks for visiting my profile!</strong> ⭐
+</p>
 
 </div>
 
 ---
-
-<div align="center">
 
 ### ⭐ **Thanks for visiting my profile!** ⭐
 
