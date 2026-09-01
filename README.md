@@ -235,7 +235,7 @@ const aaliya = {
 
 <td width="50%" valign="top">
 
-<h3>🛒 <a href="https://github.com/Aaliya-TheCoder">Wanderlust</a></h3>
+<h3>🛒 Wanderlust</a></h3>
 
 <p>
 Wanderlust is a full-stack travel and stay booking web application inspired by platforms like Airbnb. Users can explore beautiful destinations, create property listings, upload images, leave reviews, and manage bookings through a modern and responsive interface.
@@ -261,7 +261,7 @@ Wanderlust is a full-stack travel and stay booking web application inspired by p
 
 <td width="50%" valign="top">
 
-<h3>📊 Smart Leads Dashboard</h3>
+<h3> Smart Leads Dashboard</h3>
 
 <p>
 A full-stack MERN Lead Management Dashboard.
