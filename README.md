@@ -244,15 +244,15 @@ Wanderlust is a full-stack travel and stay booking web application inspired by p
 
 </td>
 <td width="50%">
+### 📊 Smart Leads Dashboard
 
-### 📊 [Smart Leads Dashboard](https://github.com/Aaliya-TheCoder)
 A full-stack MERN Lead Management Dashboard.
 
-`Next.js` `TypeScript` `TailwindCSS` `JWT Authentication`
+`React` `TypeScript` `TailwindCSS` `JWT Authentication`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aaliya-TheCoder)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6EC7?style=for-the-badge&logo=vercel&logoColor=white)](smart-leads-dashboard-krj5wb0j3-aaliya-the-coder-s-projects.vercel.app)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPOSITORY_URL)
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6EC7?style=for-the-badge&logo=vercel&logoColor=white)](https://smart-leads-dashboard-alpha-jet.vercel.app)
 </td>
 </tr>
 </table>
