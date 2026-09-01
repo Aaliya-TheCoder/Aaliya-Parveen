@@ -251,7 +251,7 @@ A full-stack MERN Lead Management Dashboard.
 `Next.js` `TypeScript` `TailwindCSS` `JWT Authentication`
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aaliya-TheCoder)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6EC7?style=for-the-badge&logo=vercel&logoColor=white)](https://smart-leads-dashboard-pfne.onrender.com)
+[![Live Demo](smart-leads-dashboard-krj5wb0j3-aaliya-the-coder-s-projects.vercel.app)
 
 </td>
 </tr>
