@@ -234,25 +234,33 @@ const aaliya = {
 <tr>
 <td width="50%">
 
-### 🛒 [Wanderlust](https://github.com/Aaliya-TheCoder)
-Wanderlust is a full-stack travel and stay booking web application inspired by platforms like Airbnb. Users can explore beautiful destinations, create property listings, upload images, leave reviews, and manage bookings through a modern and responsive interface
+<td width="50%">
 
- `Node.js` `MongoDB` `Express` `Routers`
+<h3>🛒 <a href="https://github.com/Aaliya-TheCoder">Wanderlust</a></h3>
+
+Wanderlust is a full-stack travel and stay booking web application inspired by platforms like Airbnb. Users can explore beautiful destinations, create property listings, upload images, leave reviews, and manage bookings through a modern and responsive interface.
+
+`Node.js` `MongoDB` `Express` `Routers`
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aaliya-TheCoder)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF6EC7?style=for-the-badge&logo=vercel&logoColor=white)](https://wanderlust-6oa9.onrender.com)
 
 </td>
+</td>
 <td width="50%">
-### 📊 Smart Leads Dashboard
+<td width="50%">
+
+<h3>📊 Smart Leads Dashboard</h3>
 
 A full-stack MERN Lead Management Dashboard.
 
 `React` `TypeScript` `TailwindCSS` `JWT Authentication`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPOSITORY_URL)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aaliya-TheCoder)
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF6EC7?style=for-the-badge&logo=vercel&logoColor=white)](https://smart-leads-dashboard-alpha-jet.vercel.app)
+
+</td>
 </td>
 </tr>
 </table>
