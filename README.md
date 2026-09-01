@@ -230,38 +230,61 @@ const aaliya = {
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3>🛒 <a href="https://github.com/Aaliya-TheCoder">Wanderlust</a></h3>
 
+<p>
 Wanderlust is a full-stack travel and stay booking web application inspired by platforms like Airbnb. Users can explore beautiful destinations, create property listings, upload images, leave reviews, and manage bookings through a modern and responsive interface.
+</p>
 
-`Node.js` `MongoDB` `Express` `Routers`
+<p>
+<code>Node.js</code>
+<code>MongoDB</code>
+<code>Express</code>
+<code>Routers</code>
+</p>
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aaliya-TheCoder)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6EC7?style=for-the-badge&logo=vercel&logoColor=white)](https://wanderlust-6oa9.onrender.com)
+<p>
+<a href="https://github.com/Aaliya-TheCoder">
+<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+</a>
+<a href="https://wanderlust-6oa9.onrender.com">
+<img src="https://img.shields.io/badge/Live_Demo-FF6EC7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+</a>
+</p>
 
 </td>
-</td>
-<td width="50%">
-<td width="50%">
+
+<td width="50%" valign="top">
 
 <h3>📊 Smart Leads Dashboard</h3>
 
+<p>
 A full-stack MERN Lead Management Dashboard.
+</p>
 
-`React` `TypeScript` `TailwindCSS` `JWT Authentication`
+<p>
+<code>React</code>
+<code>TypeScript</code>
+<code>TailwindCSS</code>
+<code>JWT Authentication</code>
+</p>
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aaliya-TheCoder)
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6EC7?style=for-the-badge&logo=vercel&logoColor=white)](https://smart-leads-dashboard-alpha-jet.vercel.app)
+<p>
+<a href="https://github.com/Aaliya-TheCoder">
+<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+</a>
+<a href="https://smart-leads-dashboard-alpha-jet.vercel.app">
+<img src="https://img.shields.io/badge/Live_Demo-FF6EC7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+</a>
+</p>
 
 </td>
-</td>
+
 </tr>
 </table>
 
