@@ -1,29 +1,34 @@
 <div align="center">
 
+<!-- ===================== HEADER ===================== -->
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Aaliya&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20UI%20Engineer&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Aaliya&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20UI%20Engineer&descAlignY=55&descSize=18"/>
 
-<!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Specialist+%E2%9A%A1;Building+Beautiful+%26+Scalable+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%E2%9A%A1;Building+Beautiful+%26+Scalable+Apps+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
 
-### 🌈 Quick Links
+<!-- ===================== QUICK LINKS ===================== -->
+
+### 🌐 Let's Connect
 
 <a href="https://portfolioo-redg.onrender.com" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-FF6EC7?style=for-the-badge&logoColor=white&labelColor=000000" alt="Portfolio"/>
-</a>
-<a href="mailto:aaliya969392@gmail.com">
-  <img src="https://img.shields.io/badge/📧_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
-</a>
-<a href="https://leetcode.com/u/Aaliya_Parveen/" target="_blank">
-  <img src="https://img.shields.io/badge/💡_LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000" alt="LeetCode"/>
-</a>
-<a href="https://github.com/Aaliya-TheCoder" target="_blank">
-  <img src="https://img.shields.io/badge/⭐_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-FF6EC7?style=for-the-badge&labelColor=000000" alt="Portfolio"/>
 </a>
 
+<a href="mailto:aaliya969392@gmail.com">
+<img src="https://img.shields.io/badge/📧_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
+</a>
+
+<a href="https://leetcode.com/u/Aaliya_Parveen/" target="_blank">
+<img src="https://img.shields.io/badge/💡_LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000" alt="LeetCode"/>
+</a>
+
+<a href="https://github.com/Aaliya-TheCoder" target="_blank">
+<img src="https://img.shields.io/badge/⭐_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+</a>
+
+<br/>
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Aaliya-TheCoder&label=PROFILE+VIEWS&color=FF6EC7&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
@@ -32,7 +37,10 @@
 
 <br/>
 
-<!-- Animated About Me Section -->
+---
+
+<!-- ===================== ABOUT ME ===================== -->
+
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## 💫 About Me
@@ -44,10 +52,28 @@ const aaliya = {
     location: "India 🇮🇳",
 
     coreStack: {
-        frontend: ["HTML", "React", "JavaScript", "TailwindCSS", "Bootstrap"],
-        backend: ["Node.js", "Express"],
-        database: ["MongoDB", "MySQL"],
-        tools: ["Git", "Claude"]
+        frontend: [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "TailwindCSS",
+            "Bootstrap"
+        ],
+        backend: [
+            "Node.js",
+            "Express.js"
+        ],
+        database: [
+            "MongoDB",
+            "MySQL"
+        ],
+        tools: [
+            "Git",
+            "GitHub",
+            "VS Code",
+            "Claude"
+        ]
     },
 
     interests: [
@@ -57,176 +83,74 @@ const aaliya = {
         "Clean Code Practices ✨"
     ],
 
-    currentlyLearning: ["Advanced DSA", "Advanced React Patterns"],
-    philosophy: "Code with purpose. Debug with patience. Ship with pride.",
-    funFact: "My commit messages are more honest than my diary 📝"
+    currentlyLearning: [
+        "Advanced DSA",
+        "Advanced React Patterns",
+        "TypeScript"
+    ],
+
+    philosophy:
+        "Code with purpose. Debug with patience. Ship with pride.",
+
+    funFact:
+        "My commit messages are more honest than my diary 📝"
 };
 ```
 
 ### 🎯 What Drives Me
 
-- 🧠 Always curious, always experimenting
-- 🌱 Constantly learning new technologies & best practices
-- 👯 Looking to collaborate on innovative projects
-- 💡 Passionate about problem-solving & algorithmic thinking
-- ⚡ Quick learner with a growth mindset
+- 🧠 Always curious and experimenting with new technologies
+- 🌱 Constantly learning better development practices
+- 💡 Passionate about problem solving and DSA
+- 🚀 Interested in building scalable and user-friendly applications
+- 🤝 Open to collaboration and meaningful projects
+- ⚡ Focused on writing clean, maintainable code
 
 <br clear="right"/>
 
 ---
 
+<!-- ===================== TECH STACK ===================== -->
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 💻 Frontend Magic
-<img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,redux&theme=dark" alt="Frontend Skills"/>
+### 💻 Frontend
 
-### ⚙️ Backend Power
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,bootstrap&theme=dark" alt="Frontend Skills"/>
+
+<br/>
+
+### ⚙️ Backend
+
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend Skills"/>
 
-### 🗄️ Database Mastery
+<br/>
+
+### 🗄️ Databases
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Database Skills"/>
 
-### 📦 Programming Languages
-<img src="https://skillicons.dev/icons?i=cpp,java,python&theme=dark" alt="Languages"/>
+<br/>
 
-### 🔧 Tools & Tech
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" alt="Tools"/>
+### 👨‍💻 Programming Languages
 
-</div>
+<img src="https://skillicons.dev/icons?i=cpp,java,python&theme=dark" alt="Programming Languages"/>
 
----
+<br/>
 
-## 📊 GitHub Statistics
+### 🔧 Tools & Platforms
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Aaliya-TheCoder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=6EC1FF&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-
-</td>
-<td width="50%" align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaliya-TheCoder&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6EC7&ring=FF6EC7&fire=6EC1FF&currStreakLabel=6EC1FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaliya-TheCoder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
-
-</td>
-<td width="50%" align="center">
-
-  <img src="https://github-contributor-stats.vercel.app/api?username=Aaliya-TheCoder&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&icon_color=6EC1FF" alt="Top Contributions"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaliya-TheCoder&custom_title=📈%20Contribution%20Graph&bg_color=0D1117&color=FF6EC7&line=6EC1FF&point=FFFFFF&area=true&hide_border=true&area_color=6EC1FF" width="98%" alt="Contribution Graph"/>
-</div>
-
-<!-- Contribution Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aaliya-TheCoder/Aaliya-TheCoder/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" width="98%"/>
-</div>
-
----
-
-## 💡 LeetCode Statistics
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Aaliya_Parveen?theme=dark&font=Noto%20Sans&ext=heatmap&border=0" alt="LeetCode Stats" width="60%"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,vercel&theme=dark" alt="Tools and Platforms"/>
 
 </div>
 
 ---
 
-## 💼 What I Bring to the Table
+<!-- ===================== SKILLS ===================== -->
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 Core Strengths
-- ✅ Full Stack MERN Development
-- ✅ Responsive UI/UX Design
-- ✅ RESTful API Development
-- ✅ Database Design & Optimization
-- ✅ Performance Optimization
-- ✅ Clean Code Practices
-- ✅ Problem Solving & DSA
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 Currently Exploring
-- 🔄 Advanced React Patterns & Hooks
-- 🔄 Next.js (App Router & Server Components)
-- 🔄 Node.js & Express.js
-- 🔄 MongoDB & Mongoose (Aggregation, Indexing)
-- 🔄 REST & GraphQL API Design
-- 🔄 TypeScript across the MERN Stack
-- 🔄 System Design & Scalable Architecture
-- 🔄 Cloud Technologies (AWS)
-- 🔄 DevOps & CI/CD Pipelines
-- 🔄 Docker & Containerization
-- 🔄 Testing (Jest, Cypress, Supertest)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 💡 Professional Philosophy
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
-
-### ✨ *"Learn relentlessly. Build fearlessly. Improve constantly."* ✨
-
-**The principle behind every line of code I write** 💻🚀
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
-
-</div>
-
----
-
-## 🎯 Coding Activity
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Aaliya-TheCoder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&layout=compact&custom_title=📊%20Weekly%20Coding%20Stats" alt="Coding Stats"/>
-
-</div>
-
----
-
-## 🚀 Projects
+## 💡 Core Strengths
 
 <div align="center">
 
@@ -235,52 +159,222 @@ const aaliya = {
 
 <td width="50%" valign="top">
 
-<h3>🛒 Wanderlust</a></h3>
+### 🎯 Development
+
+- Full Stack MERN Development
+- Responsive UI/UX Development
+- RESTful API Development
+- Authentication & Authorization
+- Database Design
+- MongoDB & MySQL
+- React Component Architecture
+- Performance Optimization
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Problem Solving
+
+- Data Structures & Algorithms
+- Algorithmic Thinking
+- Debugging & Troubleshooting
+- Clean Code Practices
+- Logical Problem Solving
+- Code Optimization
+- Scalable Application Design
+- Continuous Learning
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aaliya-TheCoder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=6EC1FF&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaliya-TheCoder&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6EC7&ring=FF6EC7&fire=6EC1FF&currStreakLabel=6EC1FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaliya-TheCoder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
+
+</div>
+
+---
+
+<!-- ===================== ACTIVITY ===================== -->
+
+## 📈 Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaliya-TheCoder&custom_title=Contribution%20Graph&bg_color=0D1117&color=FF6EC7&line=6EC1FF&point=FFFFFF&area=true&hide_border=true&area_color=6EC1FF" width="98%" alt="Contribution Graph"/>
+
+</div>
+
+<br/>
+
+<!-- Contribution Snake -->
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Aaliya-TheCoder/Aaliya-TheCoder/output/github-contribution-grid-snake-dark.svg" width="98%" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+<!-- ===================== LEETCODE ===================== -->
+
+## 🧩 LeetCode Journey
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Aaliya_Parveen?theme=dark&font=Noto%20Sans&ext=heatmap&border=0" alt="LeetCode Statistics" width="60%"/>
+
+<br/>
+<br/>
+
+<a href="https://leetcode.com/u/Aaliya_Parveen/" target="_blank">
+<img src="https://img.shields.io/badge/View_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
+</a>
+
+</div>
+
+---
+
+<!-- ===================== CURRENTLY LEARNING ===================== -->
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+### ⚛️ Frontend
+
+- Advanced React Patterns
+- React Hooks
+- TypeScript
+- Next.js
+- Component Architecture
+- Performance Optimization
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏗️ Backend & Systems
+
+- Advanced Node.js
+- Express.js
+- MongoDB Aggregation
+- REST API Design
+- System Design
+- Cloud & Deployment
+- Docker & CI/CD
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🛒 <a href="https://github.com/Aaliya-TheCoder">Wanderlust</a></h3>
 
 <p>
-Wanderlust is a full-stack travel and stay booking web application inspired by platforms like Airbnb. Users can explore beautiful destinations, create property listings, upload images, leave reviews, and manage bookings through a modern and responsive interface.
+A full-stack travel and stay booking web application inspired by platforms like Airbnb. Users can explore destinations, create property listings, upload images, leave reviews, and manage bookings through a modern and responsive interface.
 </p>
 
 <p>
 <code>Node.js</code>
 <code>MongoDB</code>
 <code>Express</code>
-<code>Routers</code>
+<code>JavaScript</code>
 </p>
 
 <p>
+
 <a href="https://github.com/Aaliya-TheCoder">
-<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+<img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
 </a>
+
 <a href="https://wanderlust-6oa9.onrender.com">
-<img src="https://img.shields.io/badge/Live_Demo-FF6EC7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+<img src="https://img.shields.io/badge/LIVE_DEMO-FF6EC7?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"/>
 </a>
+
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3> Smart Leads Dashboard</h3>
+<h3>📊 Smart Leads Dashboard</h3>
 
 <p>
-A full-stack MERN Lead Management Dashboard.
+A full-stack lead management dashboard designed to manage, organize and track leads through a modern web interface with authentication and role-based functionality.
 </p>
 
 <p>
 <code>React</code>
 <code>TypeScript</code>
 <code>TailwindCSS</code>
-<code>JWT Authentication</code>
+<code>Node.js</code>
+<code>MongoDB</code>
+<code>JWT</code>
 </p>
 
 <p>
+
 <a href="https://github.com/Aaliya-TheCoder">
-<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+<img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
 </a>
+
 <a href="https://smart-leads-dashboard-alpha-jet.vercel.app">
-<img src="https://img.shields.io/badge/Live_Demo-FF6EC7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+<img src="https://img.shields.io/badge/LIVE_DEMO-FF6EC7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
 </a>
+
 </p>
 
 </td>
@@ -292,19 +386,25 @@ A full-stack MERN Lead Management Dashboard.
 
 ---
 
-## 🌟 Featured Work
+<!-- ===================== PHILOSOPHY ===================== -->
+
+## 💭 Developer Philosophy
 
 <div align="center">
 
-### 🚀 Check out my repositories below! 👇
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Coding Animation"/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aaliya-TheCoder&repo=Aaliya-TheCoder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=6EC1FF&text_color=FFFFFF)](https://github.com/Aaliya-TheCoder)
+### ✨ *"Learn relentlessly. Build fearlessly. Improve constantly."* ✨
+
+<p>
+<strong>Code with purpose. Debug with patience. Ship with pride.</strong>
+</p>
 
 </div>
 
 ---
 
----
+<!-- ===================== CONNECT ===================== -->
 
 ## 📫 Let's Connect & Collaborate!
 
@@ -321,15 +421,19 @@ or opportunities to build something meaningful with technology.
 <br/>
 
 <a href="mailto:aaliya969392@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://leetcode.com/u/Aaliya_Parveen/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 
 <a href="https://github.com/Aaliya-TheCoder" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://portfolioo-redg.onrender.com" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-FF6EC7?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/>
@@ -349,13 +453,8 @@ or opportunities to build something meaningful with technology.
 
 ---
 
-### ⭐ **Thanks for visiting my profile!** ⭐
-
-**If you like my work, consider giving a ⭐ to my repositories!**
-
-<br>
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer"/>
 
 </div>
-
