@@ -321,7 +321,7 @@ const aaliya = {
 
 <td width="50%" valign="top">
 
-<h3>🛒 <a href="https://github.com/Aaliya-TheCoder">Wanderlust</a></h3>
+<h3>🛒Wanderlust</h3>
 
 <p>
 A full-stack travel and stay booking web application inspired by platforms like Airbnb. Users can explore destinations, create property listings, upload images, leave reviews, and manage bookings through a modern and responsive interface.
@@ -340,7 +340,7 @@ A full-stack travel and stay booking web application inspired by platforms like 
 <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
 </a>
 
-<a href="https://wanderlust-6oa9.onrender.com">
+<a href="https://wanderlust-sepia-pi.vercel.app/listings">
 <img src="https://img.shields.io/badge/LIVE_DEMO-FF6EC7?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"/>
 </a>
 
