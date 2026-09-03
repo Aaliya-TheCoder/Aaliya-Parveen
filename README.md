@@ -45,56 +45,53 @@
 
 ## 💫 About Me
 
-```javascript
-const aaliya = {
-    role: "Full Stack Developer 🚀",
-    education: "B.Tech in Computer Science 🎓",
-    location: "India 🇮🇳",
+<h1 align="center">Hi there, I'm Aaliya 👋</h1>
+javascript
+class Aaliya {
+    #secretSauce = "curiosity + caffeine ☕";
 
-    coreStack: {
-        frontend: [
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "React",
-            "TailwindCSS",
-            "Bootstrap"
-        ],
-        backend: [
-            "Node.js",
-            "Express.js"
-        ],
-        database: [
-            "MongoDB",
-            "MySQL"
-        ],
-        tools: [
-            "Git",
-            "GitHub",
-            "VS Code",
-            "Claude"
-        ]
-    },
+    constructor() {
+        this.role = "Full Stack Developer 🚀";
+        this.location = "India 🇮🇳";
+        this.education = "B.Tech in Computer Science 🎓";
+    }
 
-    interests: [
-        "Database Management",
-        "Problem Solving",
-        "Performance Optimization ⚡",
-        "Clean Code Practices ✨"
-    ],
+    get stack() {
+        return {
+            frontend: "HTML • CSS • JavaScript • React • Tailwind • Bootstrap",
+            backend: "Node.js • Express.js",
+            database: "MongoDB • MySQL",
+            tools: "Git • GitHub • VS Code • Claude"
+        };
+    }
 
-    currentlyLearning: [
-        "Advanced DSA",
-        "Advanced React Patterns",
-        "TypeScript"
-    ],
+    get currentlyLearning() {
+        return ["Advanced DSA", "Advanced React Patterns", "TypeScript"];
+    }
 
-    philosophy:
-        "Code with purpose. Debug with patience. Ship with pride.",
+    get philosophy() {
+        return "Code with purpose. Debug with patience. Ship with pride.";
+    }
 
-    funFact:
-        "My commit messages are more honest than my diary 📝"
-};
+    debug(bug) {
+        console.log(`🔍 Investigating: ${bug}`);
+        console.log(`☕ Coffee count: Infinity`);
+        return "Fixed. Probably. 🤞";
+    }
+
+    whoAmI() {
+        return `
+        ┌─────────────────────────────────────┐
+        │  Hi, I'm Aaliya 👋                   │
+        │  I turn ideas into interfaces        │
+        │  and bugs into learning experiences  │
+        └─────────────────────────────────────┘
+        `;
+    }
+}
+
+const me = new Aaliya();
+console.log(me.whoAmI());
 ```
 
 ### 🎯 What Drives Me
@@ -336,7 +333,7 @@ A full-stack travel and stay booking web application inspired by platforms like 
 
 <p>
 
-<a href="https://github.com/Aaliya-TheCoder">
+<a href="https://github.com/Aaliya-TheCoder/Wanderlust">
 <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
 </a>
 
@@ -367,7 +364,7 @@ A full-stack lead management dashboard designed to manage, organize and track le
 
 <p>
 
-<a href="https://github.com/Aaliya-TheCoder">
+<a href="https://github.com/Aaliya-TheCoder/smart-leads-dashboard">
 <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
 </a>
 
