@@ -88,10 +88,11 @@ class Aaliya {
         └─────────────────────────────────────┘
         `;
     }
-}
-
 const me = new Aaliya();
 console.log(me.whoAmI());
+}
+
+
 ```
 
 ### 🎯 What Drives Me
