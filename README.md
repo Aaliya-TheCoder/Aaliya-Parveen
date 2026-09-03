@@ -43,20 +43,21 @@
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+
 ## 💫 About Me
-
+ 
 <h1 align="center">Hi there, I'm Aaliya 👋</h1>
-
-​```javascript
+ 
+```javascript
 class Aaliya {
     #secretSauce = "curiosity + caffeine ☕";
-
+ 
     constructor() {
         this.role = "Full Stack Developer 🚀";
         this.location = "India 🇮🇳";
         this.education = "B.Tech in Computer Science 🎓";
     }
-
+ 
     get stack() {
         return {
             frontend: "HTML • CSS • JavaScript • React • Tailwind • Bootstrap",
@@ -65,21 +66,21 @@ class Aaliya {
             tools: "Git • GitHub • VS Code • Claude"
         };
     }
-
+ 
     get currentlyLearning() {
         return ["Advanced DSA", "Advanced React Patterns", "TypeScript"];
     }
-
+ 
     get philosophy() {
         return "Code with purpose. Debug with patience. Ship with pride.";
     }
-
+ 
     debug(bug) {
         console.log(`🔍 Investigating: ${bug}`);
         console.log(`☕ Coffee count: Infinity`);
         return "Fixed. Probably. 🤞";
     }
-
+ 
     whoAmI() {
         return `
         ┌─────────────────────────────────────┐
@@ -90,10 +91,10 @@ class Aaliya {
         `;
     }
 }
-
+ 
 const me = new Aaliya();
 console.log(me.whoAmI());
-​```
+```
 
 ### 🎯 What Drives Me
 
@@ -195,55 +196,36 @@ console.log(me.whoAmI());
 <!-- ===================== GITHUB STATS ===================== -->
 
 ## 📊 GitHub Statistics
-
+ 
 <div align="center">
-
 <table>
 <tr>
-
 <td width="50%" align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Aaliya-TheCoder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=6EC1FF&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-
 </td>
-
 <td width="50%" align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaliya-TheCoder&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6EC7&ring=FF6EC7&fire=6EC1FF&currStreakLabel=6EC1FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
-
 </td>
-
 </tr>
 </table>
-
 <br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaliya-TheCoder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
-
 </div>
-
 ---
 
 <!-- ===================== ACTIVITY ===================== -->
 
 ## 📈 Coding Activity
-
+ 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaliya-TheCoder&custom_title=Contribution%20Graph&bg_color=0D1117&color=FF6EC7&line=6EC1FF&point=FFFFFF&area=true&hide_border=true&area_color=6EC1FF" width="98%" alt="Contribution Graph"/>
-
 </div>
-
 <br/>
-
 <!-- Contribution Snake -->
-
+ 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/Aaliya-TheCoder/Aaliya-TheCoder/output/github-contribution-grid-snake-dark.svg" width="98%" alt="Contribution Snake"/>
-
 </div>
-
 ---
 
 <!-- ===================== LEETCODE ===================== -->
