@@ -46,7 +46,8 @@
 ## 💫 About Me
 
 <h1 align="center">Hi there, I'm Aaliya 👋</h1>
-javascript
+
+​```javascript
 class Aaliya {
     #secretSauce = "curiosity + caffeine ☕";
 
@@ -88,12 +89,11 @@ class Aaliya {
         └─────────────────────────────────────┘
         `;
     }
-const me = new Aaliya();
-console.log(me.whoAmI());
 }
 
-
-```
+const me = new Aaliya();
+console.log(me.whoAmI());
+​```
 
 ### 🎯 What Drives Me
 
