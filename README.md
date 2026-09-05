@@ -291,7 +291,6 @@ console.log(me.whoAmI());
 ---
 
 <!-- ===================== PROJECTS ===================== -->
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -299,9 +298,10 @@ console.log(me.whoAmI());
 <table width="100%">
 <tr>
 
+<!-- Wanderlust -->
 <td width="50%" valign="top">
 
-<h3>🛒Wanderlust</h3>
+<h3>🛒 Wanderlust</h3>
 
 <p>
 A full-stack travel and stay booking web application inspired by platforms like Airbnb. Users can explore destinations, create property listings, upload images, leave reviews, and manage bookings through a modern and responsive interface.
@@ -315,19 +315,18 @@ A full-stack travel and stay booking web application inspired by platforms like 
 </p>
 
 <p>
-
 <a href="https://github.com/Aaliya-TheCoder/Wanderlust">
 <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
 </a>
 
 <a href="https://wanderlust-sepia-pi.vercel.app/listings">
-<img src="https://img.shields.io/badge/LIVE_DEMO-FF6EC7?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"/>
+<img src="https://img.shields.io/badge/LIVE_DEMO-FF6EC7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
 </a>
-
 </p>
 
 </td>
 
+<!-- Smart Leads Dashboard -->
 <td width="50%" valign="top">
 
 <h3>📊 Smart Leads Dashboard</h3>
@@ -346,7 +345,6 @@ A full-stack lead management dashboard designed to manage, organize and track le
 </p>
 
 <p>
-
 <a href="https://github.com/Aaliya-TheCoder/smart-leads-dashboard">
 <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
 </a>
@@ -354,31 +352,31 @@ A full-stack lead management dashboard designed to manage, organize and track le
 <a href="https://smart-leads-dashboard-alpha-jet.vercel.app">
 <img src="https://img.shields.io/badge/LIVE_DEMO-FF6EC7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
 </a>
-
 </p>
 
 </td>
-</tr>
 
-<td width="50%" valign="top">
+</tr>
 
 <tr>
 
-<h3>WeatherHub</h3>
+<!-- WeatherHub -->
+<td width="50%" valign="top">
+
+<h3>🌤️ WeatherHub</h3>
 
 <p>
-WeatherHub is a simple and responsive weather web application built with React.js. It allows users to search for a city and view real-time weather information including temperature, humidity, feels-like temperature, and weather conditions.
+A simple and responsive weather application built with React.js that provides real-time weather information for any city, including temperature, humidity, feels-like temperature, and weather conditions.
 </p>
 
 <p>
 <code>React</code>
 <code>JavaScript</code>
 <code>Material UI</code>
-<code>Node.js</code>
+<code>CSS</code>
 </p>
 
 <p>
-
 <a href="https://github.com/Aaliya-TheCoder/WeatherHub">
 <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
 </a>
@@ -386,11 +384,14 @@ WeatherHub is a simple and responsive weather web application built with React.j
 <a href="https://weatherhub-alpha.vercel.app/">
 <img src="https://img.shields.io/badge/LIVE_DEMO-FF6EC7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
 </a>
-
 </p>
+
 </td>
-<td></td>
-</tr>
+
+<!-- Empty second column -->
+<td width="50%" valign="top">
+</td>
+
 </tr>
 </table>
 
