@@ -359,6 +359,34 @@ A full-stack lead management dashboard designed to manage, organize and track le
 
 </td>
 
+<td width="50%" valign="top">
+
+<h3>WeatherHub</h3>
+
+<p>
+WeatherHub is a simple and responsive weather web application built with React.js. It allows users to search for a city and view real-time weather information including temperature, humidity, feels-like temperature, and weather conditions.
+</p>
+
+<p>
+<code>React</code>
+<code>JavaScript</code>
+<code>Material UI</code>
+<code>Node.js</code>
+</p>
+
+<p>
+
+<a href="https://github.com/Aaliya-TheCoder/WeatherHub">
+<img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+</a>
+
+<a href="https://weatherhub-alpha.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-FF6EC7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+</a>
+
+</p>
+
+</td>
 </tr>
 </table>
 
