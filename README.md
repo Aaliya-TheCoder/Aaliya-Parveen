@@ -358,8 +358,11 @@ A full-stack lead management dashboard designed to manage, organize and track le
 </p>
 
 </td>
+</tr>
 
 <td width="50%" valign="top">
+
+<tr>
 
 <h3>WeatherHub</h3>
 
@@ -385,8 +388,9 @@ WeatherHub is a simple and responsive weather web application built with React.j
 </a>
 
 </p>
-
 </td>
+<td></td>
+</tr>
 </tr>
 </table>
 
